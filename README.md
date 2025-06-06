@@ -18,7 +18,7 @@ This repository contains a PowerShell script for authenticating and accessing th
     ```
 
 2. **Edit the script:**  
-   Open `accessing-oracle-netsuite-rest-api.ps1` and update the following placeholders:
+   Open `oracle-netsuite-rest-api.ps1` and update the following placeholders:
    - `[Certificate ID from OAuth 2.0 Client Credentials Setup]`
    - `[Client ID provided during Integration Setup]`
    - `<accountID>`
@@ -27,7 +27,7 @@ This repository contains a PowerShell script for authenticating and accessing th
 
 3. **Run the script:**
     ```sh
-    ./accessing-oracle-netsuite-rest-api.ps1
+    ./oracle-netsuite-rest-api.ps1
     ```
 
 4. **Expected Output:**  
