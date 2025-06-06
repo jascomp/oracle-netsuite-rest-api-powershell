@@ -27,7 +27,7 @@ This repository contains a PowerShell script for authenticating and accessing th
 
 3. **Run the script:**
     ```sh
-    pwsh ./accessing-oracle-netsuite-rest-api.ps1
+    ./accessing-oracle-netsuite-rest-api.ps1
     ```
 
 4. **Expected Output:**  
