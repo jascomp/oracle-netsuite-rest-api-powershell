@@ -50,7 +50,3 @@ This repository contains a PowerShell script for authenticating and accessing th
 
 For a full explanation of the process and script walkthrough, see the accompanying blog post:  
 [Accessing Oracle NetSuite REST API Using PowerShell](https://jasonholden.com/accessing-oracle-netsuite-rest-api-using-powershell/)
-
----
-
-© [Jason Holden](https://jasonholden.com/)
