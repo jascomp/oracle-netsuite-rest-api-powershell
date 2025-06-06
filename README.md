@@ -37,11 +37,6 @@ This repository contains a PowerShell script for authenticating and accessing th
    - Use the token to make a sample GET request (e.g., retrieving a customer record)
    - Print the API response in JSON format
 
-## Disclaimer
-
-- This script is for educational purposes only and comes with no warranty.
-- Use at your own risk and do not use in production without proper review and adaptation.'
-
 ## Important Notes
 
 - Oracle has phased out support for [PKCSv1.5 for RSA signatures](https://community.oracle.com/netsuite/english/discussion/4490520/end-of-support-for-rsa-pkcsv1-5-scheme-for-oauth-2-0).  You must now use PSS. If you continue to use PKCSv1.5 the service will return `invalid_grant`.
