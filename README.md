@@ -1,6 +1,6 @@
 # Accessing the Oracle NetSuite REST API with PowerShell
 
-This repository contains a PowerShell script for authenticating and accessing the Oracle NetSuite REST API using OAuth 2.0 JWT Client Credentials flow. The script demonstrates how to generate a JWT, sign it, obtain an access token, and make authenticated API requests to NetSuite.
+This repository contains a PowerShell script for authenticating and accessing the Oracle NetSuite REST API using OAuth 2.0 Machine 2 Machine Client Credentials flow. The script demonstrates how to generate a JWT, sign it, obtain an access token, and make authenticated API requests to NetSuite.
 
 ## Prerequisites
 
